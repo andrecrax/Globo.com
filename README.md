@@ -1,2 +1,2 @@
 # globo.com
-Created with CodeSandbox
+O projeto consiste em fazer um clone do site globo.com.
