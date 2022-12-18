@@ -4,6 +4,6 @@
 ### :computer: Projeto
 O objetivo é aplicar o layout de uma versão simplificada da home da Globo.com, utilizando HTML e CSS. O layout foi fornecido via <a href=“http://exemplo.com/“>Figma</a>
 
-### Tecnologias utilizadas
+### :wrench: Tecnologias utilizadas
 CSS </br>
 HTML
