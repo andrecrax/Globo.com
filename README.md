@@ -5,6 +5,5 @@
 O objetivo é aplicar o layout de uma versão simplificada da home da Globo.com, utilizando HTML e CSS. O layout foi fornecido via [Figma](https://www.figma.com/file/TusiAOJUwrEsBph6gYhUNf/Projeto-Globo.com?node-id=5%3A167&t=HHU9yulvNk9P5wGY-0)
 
 ### :wrench: Tecnologias utilizadas
-#Markdown
 * CSS </br>
 * HTML
